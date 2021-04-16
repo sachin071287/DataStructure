@@ -1,4 +1,4 @@
-package com.learning.skillenza;
+package com.learning.programs;
 
 /* Read input from STDIN. Print your output to STDOUT*/
 

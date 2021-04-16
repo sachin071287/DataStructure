@@ -1,4 +1,4 @@
-package com.dp;
+package com.learning.programs;
 
 public class MissingElementInArray {
 

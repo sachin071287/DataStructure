@@ -1,4 +1,4 @@
-package com.learning.skillenza;
+package com.learning.programs;
 
 public class SquarePrintByAshish {
 	

@@ -1,4 +1,4 @@
-package com.globallogic;
+package com.learning.programs;
 
 import java.util.HashMap;
 import java.util.HashSet;

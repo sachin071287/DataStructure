@@ -1,4 +1,4 @@
-package com.learning.skillenza.drinkprime;
+package com.learning.programs;
 
 import java.util.ArrayList;
 import java.util.List;

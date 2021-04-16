@@ -1,4 +1,4 @@
-package com.learning.skillenza.hackerearth;
+package com.learning.programs;
 
 import java.util.*;
 

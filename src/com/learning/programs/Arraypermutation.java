@@ -1,4 +1,4 @@
-package com.dp;
+package com.learning.programs;
 
 public class Arraypermutation {
 
@@ -9,7 +9,7 @@ public class Arraypermutation {
 		// 1, 2, 3
 		// 1,2,3
 		
-		printPermutaion(inputArray);
+		//printPermutaion(inputArray);
 		
 	}
 
@@ -23,7 +23,7 @@ public class Arraypermutation {
 		}
 		int k = 0;
 		for (int i = 0; i < inputArray.length; i++) {
-           swap(inputArray[i+1], inputArray[i+2]);
+          // swap(inputArray[i+1], inputArray[i+2]);
 			
 		}
 
