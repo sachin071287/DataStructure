@@ -1,1 +1,9 @@
 .DS_Store
+.classes
+.classpath
+.dist
+.m2
+.metadata
+.project
+.settings
+target
